@@ -1,3 +1,6 @@
+Deployed URL:https://mentor-student-db-ofnx.onrender.com/
+
+
 Key API Endpoints
 
 1.Create Mentor (POST): Establish a new mentor profile.
